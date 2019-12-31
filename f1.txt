@@ -1,3 +1,5 @@
 function() {
     return "common master exp";
 }
+
+add function b
