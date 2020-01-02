@@ -1,4 +1,4 @@
-M2
+R1, R2
 
 function() {
     return "common master exp";
